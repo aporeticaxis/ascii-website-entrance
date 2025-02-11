@@ -2,6 +2,8 @@
 
 A minimal, customizable entrance mechanism featuring draggable alignment of two fields to reveal content. This template provides a unique and interactive way to enter a website.
 
+https://github.com/user-attachments/assets/8a9f0923-2c40-485b-9de0-110254269c79
+
 ## Features
 
 - Draggable fields with smooth animations and inertia
@@ -17,6 +19,8 @@ A minimal, customizable entrance mechanism featuring draggable alignment of two 
 
 - GSAP (3.12.5 or later)
 - GSAP Draggable plugin
+
+
 - GSAP ScrollTrigger plugin (if adding scroll animations)
 
 ## Quick Start
@@ -154,10 +158,6 @@ tl.to(element, {
 ## License
 
 MIT License - Feel free to use and modify for your projects.
-
-## Credits
-
-Created by Eric Singer - [Website](https://ericsinger.net)
 
 ## Contributing
 
